@@ -1,0 +1,19 @@
+{
+  "name": "jamesyao-live2dwidget",
+  "version": "1.0.0",
+  "description": "看板娘基础文件",
+  "main": "autoload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesY-Jey/live2d-widget.git"
+  },
+  "author": "jamesyao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesY-Jey/live2d-widget/issues"
+  },
+  "homepage": "https://github.com/JamesY-Jey/live2d-widget#readme"
+}
